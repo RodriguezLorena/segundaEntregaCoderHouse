@@ -12,10 +12,16 @@
     
 </head>
 <body>
+      <div>
+        <button id="darkMode"><i class="fas fa-moon"></i></button>
+      </div> 
     <header>
         <h1>Simulador Carrito</h1>
         <!--Bucador de productos-->
-        <button id="boton-carrito"><i  class="fas fa-cart-arrow-down"></i><span id="contadorCarrito">0</span></button>
+        <button id="boton-carrito">
+            <i class="fas fa-cart-arrow-down"></i>
+            <span id="contadorCarrito">0</span>
+        </button>
         <select id="selecVariedad">
           <option value="all">Todos los productos</option>
           <option value="Pizzas">Pizzas</option>
@@ -28,10 +34,10 @@
       </select>
       
       </header>
-      
+     
 <!--Carta-->
     <main id="contenedor-productos">
-       
+    
     </main>
 
 <!--modal-->
@@ -46,7 +52,10 @@
             <p class="precioProducto">Precio total: $<span id="precioTotal"></span></p>
         </div>
     </div>
-    <script src="js/productos.js"></script>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!-- <script src="js/productos.json"></script> -->
+    <script src="js/darkMode.js"></script>
     <script src="js/logica.js"></script>
     <script src="js/main.js"></script>
 </body>

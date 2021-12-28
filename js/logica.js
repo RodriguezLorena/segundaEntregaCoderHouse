@@ -1,6 +1,6 @@
 //array donde guardo los datos de compra
-let carritoDeCompras = []
-
+let carritoDeCompras = [];
+let cargaProductos=[];
 const contenedorProductos = document.getElementById("contenedor-productos");
 const contenedorCarrito = document.getElementById("carrito-contenedor");
 
@@ -20,9 +20,20 @@ selecVariedad.addEventListener("change",()=>{
     }
 })
 
-//esta es mi funcion donde muestro los productos en el navegador
-mostrarProductos(cargaProductos)
+//ajax
+async function datosAjax(){
+    const resultado= await fetch("js/productos.json");
+    const datos = await resultado.json();
+    datos.forEach(elemento=>cargaProductos.push(elemento))
+    mostrarProductos(cargaProductos);
+    // console.log(datos, "hola datos")
+    
+}
+datosAjax();
 
+
+
+//esta es mi funcion donde muestro los productos en el navegador
 function mostrarProductos(array){
     contenedorProductos.innerHTML= ""
     array.forEach(producto => {
@@ -38,7 +49,7 @@ function mostrarProductos(array){
                                 <p>Tipo: ${producto.variedad}</p>
                                 <p> $${producto.precio}</p>
                             </div>
-                        </div>`
+                        </div>`            
         contenedorProductos.appendChild(div)
 
         let boton = document.getElementById(`boton${producto.id}`)
