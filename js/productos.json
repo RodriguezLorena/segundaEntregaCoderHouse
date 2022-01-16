@@ -5,14 +5,16 @@
     "id": 1,
     "nombre": "Muzzarella",
     "precio": 600,
+    "detalle": "Sin Especificar",
     "variedad": "Pizzas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/pizza-gf11bc2b89_640_xk9tqu.jpg",
     "cantidad": 1
   },
   {
     "id": 2,
-    "nombre": "Jamon",
+    "nombre": "Jamón",
     "precio": 650,
+    "detalle": "Sin Especificar",
     "variedad": "Pizzas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/pizza-gf11bc2b89_640_xk9tqu.jpg",
     "cantidad": 1
@@ -21,6 +23,7 @@
     "id": 3,
     "nombre": "Napolitana",
     "precio": 700,
+    "detalle": "Sin Especificar",
     "variedad": "Pizzas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/pizza-gf11bc2b89_640_xk9tqu.jpg",
     "cantidad": 1
@@ -29,14 +32,16 @@
     "id": 4,
     "nombre": "Con Huevo",
     "precio": 680,
+    "detalle": "Sin Especificar",
     "variedad": "Pizzas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/pizza-gf11bc2b89_640_xk9tqu.jpg",
     "cantidad": 1
   },
   {
     "id": 5,
-    "nombre": "Rucula",
+    "nombre": "Rúcula",
     "precio": 800,
+    "detalle": "Sin Especificar",
     "variedad": "Pizzas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/pizza-gf11bc2b89_640_xk9tqu.jpg",
     "cantidad": 1
@@ -45,6 +50,7 @@
     "id": 6,
     "nombre": "Tropical",
     "precio": 900,
+    "detalle": "Sin Especificar",
     "variedad": "Pizzas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/pizza-gf11bc2b89_640_xk9tqu.jpg",
     "cantidad": 1
@@ -53,6 +59,7 @@
     "id": 7,
     "nombre": "Primavera",
     "precio": 900,
+    "detalle": "Sin Especificar",
     "variedad": "Pizzas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/pizza-gf11bc2b89_640_xk9tqu.jpg",
     "cantidad": 1
@@ -61,6 +68,7 @@
     "id": 8,
     "nombre": "Hamburguesa Completa",
     "precio": 400,
+    "detalle": "Sin Especificar",
     "variedad": "Hamburguesas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/hamburguesa_hqsdtl.jpg",
     "cantidad": 1
@@ -69,6 +77,7 @@
     "id": 9,
     "nombre": "Hamburguesa Simple",
     "precio": 350,
+    "detalle": "Sin Especificar",
     "variedad": "Hamburguesas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/hamburguesa_hqsdtl.jpg",
     "cantidad": 1
@@ -77,6 +86,7 @@
     "id": 10,
     "nombre": "Morena",
     "precio": 450,
+    "detalle": "Sin Especificar",
     "variedad": "Hamburguesas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/hamburguesa_hqsdtl.jpg",
     "cantidad": 1
@@ -85,6 +95,7 @@
     "id": 11,
     "nombre": "Rock Star",
     "precio": 500,
+    "detalle": "Sin Especificar",
     "variedad": "Hamburguesas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/hamburguesa_hqsdtl.jpg",
     "cantidad": 1
@@ -93,6 +104,7 @@
     "id": 12,
     "nombre": "Caramelizada",
     "precio": 500,
+    "detalle": "Sin Especificar",
     "variedad": "Hamburguesas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/hamburguesa_hqsdtl.jpg",
     "cantidad": 1
@@ -101,6 +113,7 @@
     "id": 13,
     "nombre": "Hamburguesa Gratinada",
     "precio": 450,
+    "detalle": "Sin Especificar",
     "variedad": "Hamburguesas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/hamburguesa_hqsdtl.jpg",
     "cantidad": 1
@@ -109,6 +122,7 @@
     "id": 14,
     "nombre": "Sandwich Simple",
     "precio": 500,
+    "detalle": "Sin Especificar",
     "variedad": "Sandwich",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/sandwich_jejycz.jpg",
     "cantidad": 1
@@ -117,6 +131,7 @@
     "id": 15,
     "nombre": "Sandwich Completo",
     "precio": 550,
+    "detalle": "Sin Especificar",
     "variedad": "Sandwich",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/sandwich_jejycz.jpg",
     "cantidad": 1
@@ -125,6 +140,7 @@
     "id": 16,
     "nombre": "Sandwich Gratinado",
     "precio": 600,
+    "detalle": "Sin Especificar",
     "variedad": "Sandwich",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/sandwich_jejycz.jpg",
     "cantidad": 1
@@ -133,38 +149,43 @@
     "id": 17,
     "nombre": "Sandwich Especial",
     "precio": 700,
+    "detalle": "Sin Especificar",
     "variedad": "Sandwich",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/sandwich_jejycz.jpg",
     "cantidad": 1
   },
   {
     "id": 18,
-    "nombre": "Milanesa de Ternera con Guarnición",
+    "nombre": "Milanesa de Ternera",
     "precio": 650,
+    "detalle": "Incluye Guarnición a elección",
     "variedad": "al Plato",
-    "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/sandwich_jejycz.jpg",
+    "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/alplato_f2cp9d.jpg",
     "cantidad": 1
   },
   {
     "id": 19,
-    "nombre": "Milanesa de Pollo con Guarnición",
+    "nombre": "Milanesa de Pollo",
     "precio": 600,
     "variedad": "al Plato",
-    "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/sandwich_jejycz.jpg",
+    "detalle": "Incluye Guarnición a elección",
+    "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/alplato_f2cp9d.jpg",
     "cantidad": 1
   },
   {
     "id": 20,
-    "nombre": "Lomo con Guarnición",
+    "nombre": "Lomo",
     "precio": 700,
+    "detalle": "Incluye Guarnicion a elección",
     "variedad": "al Plato",
-    "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/sandwich_jejycz.jpg",
+    "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844309/morenaweb/imagenesMenu/alplato_f2cp9d.jpg",
     "cantidad": 1
   },
   {
     "id": 21,
     "nombre": "Tostado Simple",
     "precio": 350,
+    "detalle": "Sin Especificar",
     "variedad": "Tostado",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/tostados_jk4qox.jpg",
     "cantidad": 1
@@ -173,14 +194,16 @@
     "id": 22,
     "nombre": "Tostado Completo",
     "precio": 400,
+    "detalle": "Sin Especificar",
     "variedad": "Tostado",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/tostados_jk4qox.jpg",
     "cantidad": 1
   },
   {
     "id": 23,
-    "nombre": "Tostado de Atun",
+    "nombre": "Tostado de Atún",
     "precio": 450,
+    "detalle": "Sin Especificar",
     "variedad": "Tostado",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/tostados_jk4qox.jpg",
     "cantidad": 1
@@ -190,6 +213,7 @@
     "nombre": "Tostado Primavera",
     "precio": 500,
     "variedad": "Tostado",
+    "detalle": "Sin Especificar",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/tostados_jk4qox.jpg",
     "cantidad": 1
   },
@@ -197,6 +221,7 @@
     "id": 25,
     "nombre": "Picada para 2 pers",
     "precio": 1200,
+    "detalle": "Sin Especificar",
     "variedad": "Picadas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/picadas_z0caam.jpg",
     "cantidad": 1
@@ -205,6 +230,7 @@
     "id": 26,
     "nombre": "Picada para 4 pers",
     "precio": 1600,
+    "detalle": "Sin Especificar",
     "variedad": "Picadas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/picadas_z0caam.jpg",
     "cantidad": 1
@@ -213,6 +239,7 @@
     "id": 27,
     "nombre": "Picada para 6 pers",
     "precio": 1800,
+    "detalle": "Sin Especificar",
     "variedad": "Picadas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/picadas_z0caam.jpg",
     "cantidad": 1
@@ -221,6 +248,7 @@
     "id": 28,
     "nombre": "Picada para 8 pers",
     "precio": 2200,
+    "detalle": "Sin Especificar",
     "variedad": "Picadas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636844310/morenaweb/imagenesMenu/picadas_z0caam.jpg",
     "cantidad": 1
@@ -229,6 +257,7 @@
     "id": 29,
     "nombre": "Margarita Azul",
     "precio": 300,
+    "detalle": "Sin Especificar",
     "variedad": "Bebidas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636855171/morenaweb/imagenesMenu/margarita-g0d3cda917_640_r0hiky.jpg",
     "cantidad": 1
@@ -237,6 +266,7 @@
     "id": 30,
     "nombre": "Lomón Drink",
     "precio": 280,
+    "detalle": "Sin Especificar",
     "variedad": "Bebidas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636855909/morenaweb/imagenesMenu/drink-g9a0a32c90_640_wngfzg.jpg",
     "cantidad": 1
@@ -245,6 +275,7 @@
     "id": 31,
     "nombre": "Daikiry",
     "precio": 350,
+    "detalle": "Sin Especificar",
     "variedad": "Bebidas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636855171/morenaweb/imagenesMenu/cocktails-ged2c4374b_640_tpdo2e.jpg",
     "cantidad": 1
@@ -253,6 +284,7 @@
     "id": 32,
     "nombre": "Menta Drink",
     "precio": 300,
+    "detalle": "Sin Especificar",
     "variedad": "Bebidas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636855171/morenaweb/imagenesMenu/mojito-g0b1d60863_640_vbb5xv.jpg",
     "cantidad": 1
@@ -261,6 +293,7 @@
     "id": 33,
     "nombre": "Cerveza Artesanal",
     "precio": 500,
+    "detalle": "Sin Especificar",
     "variedad": "Bebidas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636856213/morenaweb/imagenesMenu/beer-gf46379cda_640_rwassi.jpg",
     "cantidad": 1
@@ -269,6 +302,7 @@
     "id": 34,
     "nombre": "Cerveza Chopp",
     "precio": 450,
+    "detalle": "Sin Especificar",
     "variedad": "Bebidas",
     "img": "https://res.cloudinary.com/lorenacoder/image/upload/v1636856213/morenaweb/imagenesMenu/beer-g9639bd48c_640_tzcxdc.jpg",
     "cantidad": 1

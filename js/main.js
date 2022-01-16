@@ -14,3 +14,5 @@ modalCarrito.addEventListener('click',(e)=>{
 contenedorModal.addEventListener('click', ()=>{
     carritoCerrar.click()
 })
+
+
